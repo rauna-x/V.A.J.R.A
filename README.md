@@ -5,6 +5,9 @@
 
 # Working
 <img width="400" height="227" alt="Image" src="https://github.com/user-attachments/assets/a6f4af88-3657-4846-9375-67eb6d4e4208" />
+
+# Details & Description 
+[PROJECT VAJRA - Cyber Defense Deck.pdf](https://github.com/user-attachments/files/31094989/PROJECT.VAJRA.-.Cyber.Defense.Deck.pdf)
 ---
 
 ## 📌 Overview
