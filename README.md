@@ -96,8 +96,6 @@ outputs/<target>_VAJRA_Report.md — Detailed tactical security audit with CVSS 
 outputs/<target>_harden.sh — Executable bash script for immediate defense deployment.
 
 👤 Author
-Raunak Chaturvedi — Lead Developer & Architect, Team VAJRA
-
-Submitted for: Indian Army Terrier Cyber Quest 2026 (AI Kavach Track)
+Raunak Chaturvedi
 
 
