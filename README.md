@@ -2,6 +2,9 @@
 > **Vulnerability Assessment & Joint Remediation Autonomous Core**  
 > *Sovereign Air-Gapped Multi-Host Cyber Defense & Self-Healing Engine*
 
+
+# Working
+<img width="400" height="227" alt="Image" src="https://github.com/user-attachments/assets/a6f4af88-3657-4846-9375-67eb6d4e4208" />
 ---
 
 ## 📌 Overview
